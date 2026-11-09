@@ -12,6 +12,6 @@ Use the database in the file labled "example"
 3. Configuration and execution
 Before running the script in RStudio, adjust these parameters:
 Input path in line 11 and, add the local path to Excel file.
-File name with the exact name including the .xlsx extension, the sheet name, and Database identifiers of each categorical varible in lines 15-18.
+File name with the exact name including the .xlsx extension, the sheet name, and Database identifiers of each categorical variable in lines 15-18.
 Adjust the title in line 19.
 Run script.
