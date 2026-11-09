@@ -1,6 +1,6 @@
 # R-code-for-chord-plots
-R code to generate chord diagrams from six (6) Excel databases, exporting high-resolution PDF figures  
-This code generates chord diagrams to visualize the relationship between two categorical variables. The width of each chord is proportional to the data. The script generates six individual diagrams, one for each Excel file, and a mosaic that brings the six together. The figures are exported in PDF and PNG formats. If a configured file is missing or the code detects a problem when reading it, it shows an error message.
+R code to generate chord diagrams from Excel databases, exporting high-resolution PDF and PNG format 
+This code generates chord diagrams to visualize the relationship between two categorical variables. The width of each chord is proportional to the data. If a configured file is missing or the code detects a problem when reading it, it shows an error message.
 
 1. Requirements
 Install R and RStudio. The script uses the readxl and circlize packages. To run it, gather the six Excel files (.xlsx) in the same folder, each with a single sheet.
